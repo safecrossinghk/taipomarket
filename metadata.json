@@ -1,0 +1,6 @@
+{
+  "name": "舊大埔墟火車站 3D 歷史重現 (測試版)",
+  "description": "1971年舊大埔墟火車站 3D 歷史重現獨立測試版 (Stage 1A: 基礎場景、三鏡頭平滑過渡與空間構圖)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
